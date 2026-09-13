@@ -1,15 +1,14 @@
 # PF-LAB03-0038
 ## 👋 About Me
 
-I'm a passionate developer interested in  programming, problem-solving, and building efficient software. 
+I am a passionate Artificial Intelligence student interested in problem-solving and software development. ***Learning and building efficient code is my top priority!***
 
-- **🎓 Background:** Artificial Intelligence Student
-- **💬 Ask me about:** C++, Data Structures, and basic Web Development
-  
+### My Top Goals
+1. Master core data structures and algorithms.
+2. Build scalable AI and software projects.
+3. Contribute regularly to open-source software.
 
-## 🛠️ Programming Interests & Focus Areas
-
-* **Core Languages:** C++, Python, JavaScript
-* **Primary Interests:** Systems Programming, Data Structures & Algorithms, Web Development
-* **Currently Learning:** Advanced C++ memory management, Open Source contributions
-* **Goals:** Building scalable software and collaborating on impactful open-source projects
+### 🛠️ Core Skills & Hobbies
+* **Languages:** C++, Python, JavaScript
+* **Interests:** Systems Programming, Web Development
+* **Hobbies:** Reading technical books and sci-fi literature
